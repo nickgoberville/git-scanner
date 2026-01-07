@@ -1,0 +1,39 @@
+site_name: Git Scanner
+site_description: A low-friction tool to scan directories for git repositories and uninitialized code.
+site_author: Agentic AI
+site_url: https://example.com/git-scanner
+
+theme:
+  name: material
+  logo: assets/logo.png
+  favicon: assets/logo.png
+  palette:
+    # Light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: teal
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: teal
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - content.code.copy
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+
+plugins:
+  - search
+
+nav:
+  - Home: index.md
+  - Usage: usage.md
