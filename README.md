@@ -2,7 +2,7 @@
 
 **Git Scanner** is a zero-dependency CLI tool designed to easily identify git repositories, check their status, and discover uninitialized code directories.
 
-![Git Scanner Logo](docs/assets/logo.png)
+<img src="docs/assets/logo.png" width="150" align="right" alt="Git Scanner Logo" />
 
 ## Features
 
