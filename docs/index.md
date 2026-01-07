@@ -2,7 +2,7 @@
 
 Welcome to the **Git Scanner** documentation. This tool is designed to be a lightweight, dependency-free scanner for managing your git repositories.
 
-![Git Scanner Logo](assets/logo.png){ width="200" align=right }
+![Git Scanner Logo](assets/logo_v2.png){ width="200" align=right }
 
 ## Features
 

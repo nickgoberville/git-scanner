@@ -5,8 +5,8 @@ site_url: https://example.com/git-scanner
 
 theme:
   name: material
-  logo: assets/logo.png
-  favicon: assets/logo.png
+  logo: assets/logo_v2.png
+  favicon: assets/logo_v2.png
   palette:
     # Light mode
     - media: "(prefers-color-scheme: light)"
