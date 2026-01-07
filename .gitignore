@@ -2,3 +2,6 @@ test_env/
 __pycache__/
 *.pyc
 .DS_Store
+venv/
+remove_bg.py
+
