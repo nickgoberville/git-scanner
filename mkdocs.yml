@@ -1,7 +1,7 @@
 site_name: Git Scanner
 site_description: A low-friction tool to scan directories for git repositories and uninitialized code.
 site_author: Agentic AI
-site_url: https://example.com/git-scanner
+site_url: https://nickgoberville.github.io/git-scanner/
 
 theme:
   name: material
